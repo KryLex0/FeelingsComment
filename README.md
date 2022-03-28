@@ -1,5 +1,8 @@
 # Flask APP
 ***
+
+Cette application à été réalisé dans le cadre d'un projet universitaire en groupe.
+
 ## Pré-requis
 
 Installation du framework Flask: https://flask.palletsprojects.com/en/2.0.x/installation/
